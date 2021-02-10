@@ -63,7 +63,15 @@
   width: 50%;
   padding: 3%;
   align-items: center;
-  height: 500px;
+}
+
+.wrappertext h1 {
+  margin-top: 150px;
+  color: white;
+}
+
+.wrappertext p {
+  color: white;
 }
 
 button {
@@ -76,6 +84,7 @@ button {
   width: 150px;
   border-radius: 20px;
   border-color: aqua;
+  margin-left: 60px;
   border: 0px;
 }
 
@@ -90,4 +99,13 @@ button:hover {
   width: 165px;
   height: 55px;
   box-shadow: 0 0 0 5px rgb(23, 56, 243);
+}
+
+.aboutbolt {
+  padding: 15px;
+}
+
+.aboutbolt h1 {
+  color: aqua;
+  text-decoration: none;
 }
